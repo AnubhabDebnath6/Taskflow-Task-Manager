@@ -45,7 +45,8 @@ TaskFlow/
 
 1. Download or clone the repository:
    ```
-   git clone (https://github.com/AnubhabDebnath6/Taskflow-Task-Manager)
+   git clone
+   https://github.com/AnubhabDebnath6/Taskflow-Task-Manager
    ```
 2. Open the project folder.
 3. Double-click `index.html` to open it in a browser (Chrome, Edge or Firefox).
