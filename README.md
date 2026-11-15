@@ -2,8 +2,8 @@
 
 TaskFlow is a responsive task management web app built with HTML5, CSS3 and vanilla JavaScript. Tasks are saved in the browser's Local Storage, so they stay after the page is refreshed.
 
-**Live Demo:** YOUR_LIVE_LINK_HERE
-**GitHub Repository:** YOUR_GITHUB_LINK_HERE
+**Live Demo:** https://anubhabdebnath6.github.io/Taskflow-Task-Manager
+**GitHub Repository:** https://github.com/AnubhabDebnath6/Taskflow-Task-Manager
 
 ## Features
 
@@ -78,5 +78,4 @@ See the `screenshots/` folder: dashboard, task form, task list and mobile view.
 - User accounts with a backend database
 
 ## Author
-
 Anubhab Debnath
